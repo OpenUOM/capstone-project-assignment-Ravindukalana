@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { OnInit, Input, Component } from '@angular/core';
 import { Router } from '@angular/router';
 
 @Component({
@@ -17,3 +17,5 @@ export class NavbarComponent implements OnInit {
   }
 
 }
+
+
