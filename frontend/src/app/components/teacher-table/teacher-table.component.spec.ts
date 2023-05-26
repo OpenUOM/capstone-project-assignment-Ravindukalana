@@ -1,6 +1,6 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { TeacherTableComponent } from './teacher-table.component';
+import { TeacherTableComponent } from "./TeacherTableComponent";
 
 describe('TeacherTableComponent', () => {
   let component: TeacherTableComponent;

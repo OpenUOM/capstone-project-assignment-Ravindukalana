@@ -5,7 +5,7 @@ import { AddNewTeacherComponent } from './components/add-new-teacher/add-new-tea
 import { EditStudentComponent } from './components/edit-student/edit-student.component';
 import { EditTeacherComponent } from './components/edit-teacher/edit-teacher.component';
 import { StudentTableComponent } from './components/student-table/student-table.component';
-import { TeacherTableComponent } from './components/teacher-table/teacher-table.component';
+import { TeacherTableComponent } from './components/teacher-table/TeacherTableComponent';
 
 
 const routes: Routes = [
