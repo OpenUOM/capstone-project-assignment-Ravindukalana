@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { StudentTableComponent } from './components/student-table/student-table.component';
-import { TeacherTableComponent } from './components/teacher-table/TeacherTableComponent';
+import { TeacherTableComponent } from "./components/teacher-table/TeacherTableComponent";
 import { AddNewTeacherComponent } from './components/add-new-teacher/add-new-teacher.component';
 import { AddNewStudentComponent } from './components/add-new-student/add-new-student.component';
 import { EditStudentComponent } from './components/edit-student/edit-student.component';
